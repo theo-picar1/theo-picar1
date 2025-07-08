@@ -49,14 +49,6 @@ I’m a 3rd year Computing in Software Development student at Dundalk Institute 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="50"/>
 </div>
 
-## Currently Learning
-<div align="left" style="display: flex; align-items: center; gap: 10px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="50" />
-</div>
-
 # 📊 Github Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theo-picar1&show_icons=true&theme=radical)
 
